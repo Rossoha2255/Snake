@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-react-app/static/css/main.8a2690c8.css",
+    "main.js": "/my-react-app/static/js/main.de6386c4.js",
+    "static/media/present_bonus_icon-icons.com_53587.png": "/my-react-app/static/media/present_bonus_icon-icons.com_53587.770ca874e73dea64dcb3.png",
+    "static/media/32349redapple_98912.png": "/my-react-app/static/media/32349redapple_98912.2245d6b67058a050c368.png",
+    "index.html": "/my-react-app/index.html",
+    "main.8a2690c8.css.map": "/my-react-app/static/css/main.8a2690c8.css.map",
+    "main.de6386c4.js.map": "/my-react-app/static/js/main.de6386c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a2690c8.css",
+    "static/js/main.de6386c4.js"
+  ]
+}
